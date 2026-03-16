@@ -8,3 +8,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ---------------------------------------------------------
 # About Me
 
+Hello, I am Victor Karume Kinyua. I am a Data Scientist with a deep passion for solving problems and improving operational efficiencies of various processes.
